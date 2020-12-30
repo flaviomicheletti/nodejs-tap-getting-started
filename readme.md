@@ -14,4 +14,4 @@ Run
     npm test
     npm run coverage
 
-![node-tap](https://user-images.githubusercontent.com/1257048/103329219-94351f00-4a3a-11eb-8405-c146ec2f0a26.gif)
+![tap-coverage](https://user-images.githubusercontent.com/1257048/103329296-f42bc580-4a3a-11eb-8273-635338bb9fc9.png)
