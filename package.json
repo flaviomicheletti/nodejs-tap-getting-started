@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-tap-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --100",
+    "coverage": "tap --coverage-report=html | codecov"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codecov": "^3.8.1",
+    "tap": "^14.11.0"
+  }
+}
